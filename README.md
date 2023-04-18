@@ -1,5 +1,3 @@
-# Project Title
-
 ReffHsu
 
 ## Description
